@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "KidsQ - Baby & Kids Essentials",
+    "slug": "sdui-kids-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF9F5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.kidsq.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF9F5"
+      },
+      "package": "com.kidsq.app"
+    },
+    "scheme": "kidsapp"
+  }
+}
